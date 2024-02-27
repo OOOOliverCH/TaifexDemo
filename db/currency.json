@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("65db04f38242f60b54a1f7ec"), 
+    "currency" : "usd", 
+    "date" : "20240103", 
+    "usd_ntd" : "31.01"
+}
+{ 
+    "_id" : ObjectId("65db2fa5b69c756cf8fd2925"), 
+    "currency" : "usd", 
+    "date" : "20240104", 
+    "usd_ntd" : "31.016"
+}
