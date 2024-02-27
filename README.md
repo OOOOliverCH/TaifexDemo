@@ -1,0 +1,5 @@
+taifex測試項目
+
+MongoDB賬密皆為admin
+DataBase名為taifexDemo
+Collection名為currency
